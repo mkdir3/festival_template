@@ -1,3 +1,4 @@
+![altText](https://github.com/mkdir3/festival_template/blob/main/images/screeshot.gif)
 # Fifty Festival
 
 ## _CSS&JS Project_
